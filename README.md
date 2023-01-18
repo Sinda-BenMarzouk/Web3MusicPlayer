@@ -1,7 +1,7 @@
 # NFT Music Player
 
 ## Work done by
-Sinda Ben Marzouk & Bochra Feki
+Sinda Ben Marzouk & Bochra Feki & Rihab Cheberli & Anas Hamrouni
 
 
 ## Requirements For Initial Setup
